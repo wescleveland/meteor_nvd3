@@ -3,6 +3,6 @@
   "description": "Meteorite package for nvd3 charts",
   "homepage": "https://github.com/wescleveland/meteor_nvd3",
   "author": "Wes Cleveland",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "git": "https://github.com/wescleveland/meteor_nvd3.git"
 }
