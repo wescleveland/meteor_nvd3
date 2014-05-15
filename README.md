@@ -1,15 +1,5 @@
-# Meteorite Package for nvd3 Charts
+# DEPRECATED
 
-nvd3 can be found here: https://github.com/novus/nvd3
+Meteor introduced some breaking changes to packaging and the project I was working on with this package no longer has a need for it.
 
-This package was created because the existing nvd3 package's github repo seems to have been made private.
-
-## Installation
-
-``` sh
-$ mrt add meteor_nvd3
-```
-
-## Examples
-
-Coffeescript examples coming soon...
+There is an up to date NVD3 package for Meteor [https://github.com/ouuyeah/nvd3js/](here).
